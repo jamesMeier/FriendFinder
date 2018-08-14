@@ -13,7 +13,7 @@
   },
   "author": "jamesMeier",
   "license": "ISC",
-  "homepage": "https://github.com/jamesMeier/FriendFinder#readme",
+  "homepage": "https://github.com/jamesMeier/FriendFinder",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
