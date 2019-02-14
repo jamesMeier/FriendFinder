@@ -1,7 +1,7 @@
 // Templated Friends Data
 var friendsData = [
     {
-      name: "James Meier",
+      name: "Steph",
       photo: "https://avatars2.githubusercontent.com/u/35585172?s=460&v=4",
       scores: [3, 4, 3, 3, 4, 4, 4, 1, 5, 3]
     },
